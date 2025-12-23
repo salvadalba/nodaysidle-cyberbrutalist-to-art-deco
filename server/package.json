@@ -1,0 +1,18 @@
+{
+  "name": "fabrizio-corona-server",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "build": "echo 'No build step required'",
+    "init-db": "node src/config/init-db.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "pg": "^8.13.1",
+    "express-rate-limit": "^7.5.0"
+  }
+}
