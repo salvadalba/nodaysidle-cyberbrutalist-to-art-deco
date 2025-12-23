@@ -2,7 +2,7 @@
 
 An avant-garde portfolio platform that explores the visual transformation from chaotic Cyber Brutalism to elegant Art Deco through interactive, scroll-based experience.
 
-![Project Banner](https://placeholder-image-url.com) *Note: Add a screenshot of the app here*
+![Project Banner](./assets/banner.png) *Visualizing the transformation from Cyber Brutalism to Art Deco*
 
 ## 🌟 Concept
 
